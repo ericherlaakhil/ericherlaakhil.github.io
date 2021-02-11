@@ -4,7 +4,7 @@ Educational Details
 
 **Branch, Year:** CST, 1st Year 
 
-**College Name:**Sri vasavi Engineering College 
+**College Name:** Sri vasavi Engineering College 
 
 ## Skills:Software Developer
 
